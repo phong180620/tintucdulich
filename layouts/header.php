@@ -62,5 +62,5 @@
             </div>
         </div>
     </div>
-    <!-- header-bottom area end here -->
+    <!-- header-bottom area end here --->
 </header>
